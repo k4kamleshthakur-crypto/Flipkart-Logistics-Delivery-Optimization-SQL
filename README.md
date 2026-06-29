@@ -149,4 +149,3 @@ The project consists of five relational tables:
 
 **Kamlesh Kumar Thakur**
 
-Aspiring Data Analyst | SQL | Excel | Power BI | Python | Machine Learning
